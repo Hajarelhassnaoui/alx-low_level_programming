@@ -41,28 +41,3 @@ int main(int __attribute__((__unused__)) argc, char *argv[])
 
 	return (0);
 }
-
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-"3-main.c" [New File]                                         0,0-1         All
-
